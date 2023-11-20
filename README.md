@@ -1,4 +1,4 @@
-[![MAsterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://franci-lobbie.fr)
+[![MAsterHead](https://blog.magmalabs.io/wp-content/uploads/2022/12/Gif-horizontal.gif)](https://franci-lobbie.fr)
 
 <h1 align="center">Hi 👋, I'm Franci-lobbie</h1>
 <h3 align="center">A passionate developer from France</h3>
