@@ -1,7 +1,7 @@
 [![MAsterHead](https://blog.magmalabs.io/wp-content/uploads/2022/12/Gif-horizontal.gif)](https://franci-lobbie.fr)
 
 <h1 align="center">Hi 👋, I'm Franci-lobbie</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate Ruby and React developer and AI enthusiast from France</h3>
 <img alt="coding" align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
