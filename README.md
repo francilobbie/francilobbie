@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://franci-lobbie.fr/](https://franci-lobbie.fr/)
 
-- 💬 Ask me about **Ruby, React, Talwind**
+- 💬 Ask me about **Ruby, React, Tailwind**
 
 - 📫 How to reach me **francilobbie.lalane@gmail.com**
 
