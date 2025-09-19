@@ -20,7 +20,7 @@
   </a> 
 </p>
 
-- 💻 Founder of the blog **[Captain Ruby](https://www.captainruby.fr)**
+- 💻 Founder of the blog **[Captain Ruby](https://www.captainruby.fr)** and of **[FitSpotter](https://fitspotter.app)** a Streetworkout and Calisthenics mobile app
 
 - 🌱 I’m currently learning **Flutter**, **React Native** and **Python**
 
